@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Wordlist output
+wordlist.txt
+
+# Tests cache
+.pytest_cache/
+
+# OS files
+Thumbs.db
+.DS_Store
